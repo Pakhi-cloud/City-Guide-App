@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Punekars"
+        tools:targetApi="31">
+        <activity
+            android:name=".reviewpg"
+            android:exported="false" />
+        <activity
+            android:name=".katrajt"
+            android:exported="false" />
+        <activity
+            android:name=".bhuleshwart"
+            android:exported="false" />
+        <activity
+            android:name=".balajit"
+            android:exported="false" />
+        <activity
+            android:name=".dagduseth"
+            android:exported="false" />
+        <activity
+            android:name=".pawnalake"
+            android:exported="false" />
+        <activity
+            android:name=".vetalhill"
+            android:exported="false" />
+        <activity
+            android:name=".khadakwasla"
+            android:exported="false" />
+        <activity
+            android:name=".punegarden"
+            android:exported="false" />
+        <activity
+            android:name=".lalmahal"
+            android:exported="false" />
+        <activity
+            android:name=".agakhanp"
+            android:exported="false" />
+        <activity
+            android:name=".shaniwarw"
+            android:exported="false" />
+        <activity
+            android:name=".sinhagadf"
+            android:exported="false" />
+        <activity
+            android:name=".vaishali"
+            android:exported="false" />
+        <activity
+            android:name=".shabree"
+            android:exported="false" />
+        <activity
+            android:name=".germanb"
+            android:exported="false" />
+        <activity
+            android:name=".bedekarm"
+            android:exported="false" />
+        <activity
+            android:name=".mwildlife"
+            android:exported="false" />
+        <activity
+            android:name=".peshwazoo"
+            android:exported="false" />
+        <activity
+            android:name=".bwildlife"
+            android:exported="false" />
+        <activity
+            android:name=".rajivgzoo"
+            android:exported="false" />
+        <activity
+            android:name=".tulsib"
+            android:exported="false" />
+        <activity
+            android:name=".junabazar"
+            android:exported="false" />
+        <activity
+            android:name=".fcroad"
+            android:exported="false" />
+        <activity
+            android:name=".phoenix"
+            android:exported="false" />
+        <activity
+            android:name=".temple"
+            android:exported="false" />
+        <activity
+            android:name=".nature"
+            android:exported="false" />
+        <activity
+            android:name=".history"
+            android:exported="false" />
+        <activity
+            android:name=".food"
+            android:exported="false" />
+        <activity
+            android:name=".wildlife"
+            android:exported="false" />
+        <activity
+            android:name=".shopping"
+            android:exported="false" />
+        <activity
+            android:name=".explorepg"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

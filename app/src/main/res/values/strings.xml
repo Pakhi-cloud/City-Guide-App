@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Punekars</string>
+    <string name="textformat">
+        <br><font size="25">About</font>
+
+        \n\nPune is the second-largest city in the state of Maharashtra after Mumbai, and is an important city in terms of its economic and industrial growth. Once the centre of power for the Maratha Empire, Pune’s rich historical past has made it the cultural capital of Maharashtra. Home to many colleges and universities, Pune is considered a prestigious educational destination, winning itself the title of “The Oxford of the East”. Pune has emerged as a new startup hub in recent years with information technology (IT), engineering and automotive companies sprouting. The city is also known for cultural activities such as classical music, theatre, sports and literature.7 According to the Ease of Living Index 2020, Pune was ranked as the second-best city to live in India.
+
+        <font size="25">\n\nHistory</font>
+
+        \n\nPune was initially given pride of place by Shivaji and the ruling Peshwas, who made it their capital. The British invaded the city in 1817 and, thanks to its cool and dry climate, soon made it the Bombay Presidency’s monsoon capital. Globalisation knocked on Pune’s doors in the 1990s, following which it went in for an image overhaul. However, some colonial-era aesthetic was retained in a few old buildings and residential areas, bringing about a coexistence of the old and new, which (despite the pollution and hectic traffic) makes Pune a worthwhile place to explore.
+
+            <font size="25"><br>\n\nCulture</br></font>
+
+        \n\nThe culture of every city portrays the essence of the place through its historical background, its values, ethics and its scope towards accepting innovative and fresh ideologies. Pune is one such city, which perfectly exemplifies the definition by truly justifying the title of being the Cultural Capital of Maharashtra - along with being in step with modernization.
+
+        \n\nPune is an epitome of Marathi culture and its ethos, which emphasizes on education, art, music, theatre, etc. Pune has the honor to name many famous personalities who have hailed from the place itself. Tukaram (Dehu), the famous poet-saint and Jayant Narikar, the famous scientist, were born in this district only. Many freedom fighters and revolutionary leaders like Gopal Krishna Gokhale, Agarkar and Bal Gangadhar Tilak also had their homes in Pune.
+
+        \n\nThe biggest example of Culture of Pune is evident from the enthusiasm of the city, in ‘Savai-Gandharva’, which is a three-night-long musical program based on vocal and instrumental classical music. The heritage and tradition of the city goes hand-in-hand with modern life, its amenities and beauty. That is why the enthusiasm seems absolutely parallel when the city boosts for the mesmerizing nightlife.\t
+
+        </br>
+
+    </string>
+    <string name="cb">
+        <font color="white">
+            <a href="https://simsimi.com/">ChatBot</a>
+        </font>
+    </string>
+
+    <string name="loc1">
+        Address: <a href="https://www.google.com/maps/dir//phoenix+market+city+pune/@18.5429209,73.8046149,12z/data=!3m1!5s0x3bc2c14116bb7089:0x95aa485f7c6c9e15!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c147b8b3a3bf:0x6f7fdcc8e4d6c77e!2m2!1d73.9167764!2d18.5625518">Shop No 52, Upper Ground, Marg, Clover Park, Viman Nagar, Pune, Maharashtra 411014</a>
+    </string>
+
+    <string name="loc2">
+        Address: <a href="https://www.google.com/maps/dir//Fergusson+College+Rd,+Pune,+Maharashtra/@18.5173257,73.8416177,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c07f4daa097f:0xce339b60765d5009!2m2!1d73.8416177!2d18.5173257">Fergusson College Rd, Rage Path, Shivajinagar, Pune</a>
+    </string>
+
+    <string name="loc3">
+        Address: <a href="https://www.google.com/maps/dir//Juna+Bazar,+Kasba+Peth,+Pune,+Maharashtra/@18.526375,73.860397,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c0616f0a2469:0x32aa1d556c044c27!2m2!1d73.8599165!2d18.5268805">Kasba Peth, Pune, Maharashtra</a>
+    </string>
+
+    <string name="loc4">
+        Address: <a href="https://www.google.com/maps/dir//Tulshibaug,+Budhwar+Peth,+Pune,+Maharashtra/@18.5144435,73.855525,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c06e381449ef:0xab13e71029177642!2m2!1d73.855506!2d18.514255">Budhwar Peth, Pune, Maharashtra</a>
+    </string>
+
+    <string name="loc11">
+        Address: <a href="https://www.google.com/maps/dir/18.6040405,73.7830858/rajiv+gandhi+zoological+park+information/@18.5272997,73.7390553,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2eac307f7a82f:0x3ac431343224b00b!2m2!1d73.8607977!2d18.4524807?hl=en-GB">Pune - Satara Rd, opp. Katraj Dairy, Katraj, Pune, Maharashtra 411046</a>
+    </string>
+
+    <string name="loc12">
+        Address: <a href="https://www.google.com/maps/dir/18.6040405,73.7830858/bhimashankar+wildlife+sanctuary+address/@18.8437418,73.4601001,10z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bdd5be1a20e0947:0x4051fd6a550831ac!2m2!1d73.5565368!2d19.0728497!3e0">Tungi, Maharashtra 410201</a>
+    </string>
+
+    <string name="loc13">
+        Address: <a href="https://www.google.com/maps/dir/18.6040405,73.7830858/peshwa+udyan+zoo/@18.55872,73.7824813,13z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2c00dd7443b23:0xf4895276b01e7adb!2m2!1d73.852232!2d18.5023602!3e0?hl=en-GB">9, Sane Guruji Road, Municipal Colony, Pune, Maharashtra 411030</a>
+    </string>
+
+    <string name="loc14">
+        Address: <a href="https://www.google.com/maps/dir//Mayureshwar+Wildlife+Sanctuary,+Kutwalwadi,+Maharashtra+412204/@18.3515415,74.3675446,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc31ad44981e717:0x2f6035fc107ce5d9!2m2!1d74.3675446!2d18.3515415">Kutwalwadi, Maharashtra 412204</a>
+    </string>
+
+    <string name="loc21">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/bedekar+misal+sadashiv+peth/@18.5385803,73.8108155,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2c0712045a1c9:0x23a1942274e443f0!2m2!1d73.8499297!2d18.5148471!3e0">418, Munjabacha Bole Rd, Narayan Peth, Pune, Maharashtra 411030</a>
+    </string>
+
+    <string name="loc22">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/german+bakery+kp/@18.5565759,73.8294609,14z/data=!3m2!4b1!5s0x3bc2c0fd97d24d03:0x2d6aa163f2b9b328!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2c0fdea86eacb:0x9f90341022aa9851!2m2!1d73.887395!2d18.5396337!3e0"> 292, N Main Rd, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001</a>
+    </string>
+
+    <string name="loc23">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/shabree/@18.5434333,73.8076976,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2bf809ebc9bdf:0x6070b950ffd406ab!2m2!1d73.8416289!2d18.5245066!3e0">1199, 1A, behind Tukaram Paduka Temple, Shivajinagar, Pune, Maharashtra 411004</a>
+    </string>
+
+    <string name="loc24">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/vaishali+pune+fc+road/@18.5409052,73.8064103,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2bf0f2dfc1f77:0x91569070e0816020!2m2!1d73.8411609!2d18.5208758!3e0?hl=en-GB">Fergusson College Rd, Ganeshwadi, Shivajinagar, Pune, Maharashtra 411005</a>
+    </string>
+
+    <string name="loc31">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/sinhagad/@18.4499629,73.7362643,12z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc293e6861118d9:0xcbb4d589c7d4e90b!2m2!1d73.7558777!2d18.366277!3e0">Sinhagad Ghat Road, Thoptewadi, Maharashtra.</a>
+    </string>
+
+    <string name="loc32">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/shaniwar+wada/@18.5407517,73.8136858,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2c065144d8edf:0x3703b8095866c54b!2m2!1d73.8553175!2d18.5194647!3e0">Shaniwar Peth, Pune, Maharashtra 411030</a>
+    </string>
+
+    <string name="loc33">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/aga+khan+palace/@18.556826,73.8240711,13z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2c11768711b1b:0xac1ba97447d569f4!2m2!1d73.9014563!2d18.5524942!3e0">Nagar Road, Samrat Ashok Rd, Pune, Maharashtra 411006</a>
+    </string>
+
+    <string name="loc34">
+        Address: <a href="https://www.google.com/maps/dir//GV94%2BGJ3,+Shivaji+Road,+Durvankur+Society,+Kasba+Peth,+Chhatrapati+Shivaji+Maharaj+Rd,+Pune,+Maharashtra+411011/@18.5187699,73.8215205,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c065793c91a1:0x4a206d80daf21f92!2m2!1d73.8565401!2d18.5187731!3e0">Shivaji Road, Durvankur Society, Kasba Peth, Chhatrapati Shivaji Maharaj Rd, Pune, Maharashtra 411011</a>
+    </string>
+
+    <string name="loc41">
+        Address: <a href="https://www.google.com/maps/dir//FRRQ%2BH39+Pune-Okayama+Friendship+Garden,+Sinhgad+Rd,+Pune+Okayama+Friendship+Garden,+Dattawadi,+Pune,+Maharashtra+411030/@18.4914025,73.8377269,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2bff990000001:0x3291e3e36f9ad234!2m2!1d73.8377269!2d18.4914025!3e0">Sinhgad Rd, Pune Okayama Friendship Garden, Dattawadi, Pune, Maharashtra 411030</a>
+    </string>
+
+    <string name="loc42">
+        Address: <a href="https://www.google.com/maps/dir//Khadakwasla+Dam,+Maharashtra/@18.4422936,73.7670914,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc295c8ecccbc83:0x85178b0593a875e0!2m2!1d73.7670914!2d18.4422936!3e0">Near Sinhagad Fort, Pune, Maharashtra, 411023, India</a>
+    </string>
+
+    <string name="loc43">
+        Address: <a href="https://www.google.com/maps/dir//Vetal+Tekdi,+Pashan,+Pune,+Maharashtra+411038/@18.5254896,73.8153845,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2bfa05b3decff:0x640c629764fdc140!2m2!1d73.8153845!2d18.5254899!3e0!5m1!1e4">Vetal TekdiPashan, Pune, Maharashtra 411038</a>
+    </string>
+
+    <string name="loc44">
+        Address: <a href="https://www.google.com/maps/dir//Pawna+Lake,+Maharashtra/@18.6596365,73.453474,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2a81f0997a8e5:0xe7212deb82c27d7!2m2!1d73.4857831!2d18.6668475!3e0">Maval taluka, Pune district, Maharashtra, India</a>
+    </string>
+
+    <string name="loc51">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/dagdusheth/@18.5396741,73.8138964,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc2c06fa5b442ff:0x9df365f5b648bce1!2m2!1d73.8561212!2d18.5164555!3e0">Ganpati Bhavan, 250, Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra 411002</a>
+    </string>
+
+    <string name="loc52">
+        Address: <a href="https://www.google.com/maps/dir//CVWJ%2BW47,+Tilekar+Nagar,+Kondhwa+Budruk,+Pune,+Maharashtra+411048/@18.4472806,73.8452719,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2eafba0df7313:0xe79cf5526bed2014!2m2!1d73.8803397!2d18.4472913!3e0">Tilekar Nagar, Kondhwa Budruk, Pune, Maharashtra 411048</a>
+    </string>
+
+    <string name="loc53">
+        Address: <a href="https://www.google.com/maps/dir/18.5600244,73.806616/bhuleshwar+temple+pune/@18.5047105,73.8971796,11z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3bc31e0d524ccbe5:0xf47cfe6df4b09aca!2m2!1d74.2410225!2d18.4358183!3e0">Bhuleshwar Road, Malshiras, Maharashtra 412104</a>
+    </string>
+
+    <string name="loc54">
+        Address: <a href="https://www.google.com/maps/dir//KATRAJ+JAIN+TEMPLE,+Ambegaon+BK,+Pune,+Maharashtra+411046/@18.4470078,73.8534528,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3bc2ead076cf0d8f:0x8ee575378a760662!2m2!1d73.8534845!2d18.4469428!3e0">Ambegaon BK, Pune, Maharashtra 411046</a>
+    </string>
+
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sbg"
+    tools:context=".phoenix">
+
+
+  <TextView
+      android:id="@+id/textView3"
+      android:layout_width="410dp"
+      android:layout_height="50dp"
+      android:background="#525B5A"
+      android:text="Phoenix Marketcity"
+      android:textAlignment="center"
+      android:textColor="@color/black"
+      android:textSize="28sp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.004" />
+
+  <ImageView
+      android:id="@+id/imageView11"
+      android:layout_width="407dp"
+      android:layout_height="233dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.25"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.106"
+      app:srcCompat="@drawable/phoenix" />
+
+  <TextView
+      android:id="@+id/tv4"
+      android:layout_width="377dp"
+      android:layout_height="104dp"
+      android:text="@string/loc1"
+      android:textColor="@color/black"
+      android:textSize="20sp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.515" />
+
+  <TextView
+      android:id="@+id/textView4"
+      android:layout_width="376dp"
+      android:layout_height="293dp"
+      android:text="About: Phoenix Marketcity is Pune’s hottest, largest and the only
+lifestyle, shopping and entertainment destination. It brings
+together, under one roof, an unimaginable collection of diverse
+offerings matching the needs of a modernizing city, the
+ultimate blend of traditional and modern shopping."
+      android:textColor="#000000"
+      android:textSize="20sp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.971"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.936" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
